@@ -11,7 +11,7 @@ B.S., Chemical Engineering & Mathematics
 
 
 
-# Experience
+# Professional Experience
 
 ### Board Member, Board of Estimate & Taxation
 Town of Greenwich, CT,
