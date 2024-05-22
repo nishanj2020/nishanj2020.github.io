@@ -49,8 +49,10 @@ MBA Internship,
 # Nonprofit Board Experience
 
 ### Board Member
-CT Mirror
+CT Mirror,
 Jan 2024 - Present
+
+Connecticut’s largest nonprofit publication focused on government and public policy. Board members are philanthropists, government, and/or academic leaders.
 
 ### Board Member, Chair - Audit Committee
 YWCA Greenwich,
