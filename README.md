@@ -46,6 +46,10 @@ Institutional Securities,
 MBA Internship,
 2003
 
+### Morgan Stanley
+Investment Management Technology
+1999 - 2002
+
 # Nonprofit Board Experience
 
 ### Board Member
