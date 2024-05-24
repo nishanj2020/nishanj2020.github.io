@@ -47,7 +47,7 @@ MBA Internship,
 2003
 
 ### Morgan Stanley
-Investment Management Technology
+Investment Management Technology,
 1999 - 2002
 
 # Nonprofit Board Experience
